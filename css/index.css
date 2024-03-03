@@ -1,0 +1,42 @@
+.title{
+	padding-top: 20px;
+	font-size: 30px;
+}
+
+.conteudo{
+    padding-top: 150px;
+}
+
+.adicionar-paciente{
+    margin-top: 30px;
+}
+
+.campo-invalido{
+	border: 1px solid red;
+}
+
+.paciente-invalido {
+	background-color: lightcoral;
+}
+
+#mensagens-erro {
+	color: red;
+}
+
+.fadeOut {
+	opacity: 0;
+	transition: 0.5s;
+}
+
+table, form{
+    margin-bottom: 30px;
+}
+
+#filtrar-tabela {
+	height: 35px;
+	margin-bottom: 10px;
+}
+
+.invisivel {
+	display: none;
+}
